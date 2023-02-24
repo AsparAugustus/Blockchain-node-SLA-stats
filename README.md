@@ -1,8 +1,11 @@
-﻿## to start up server
+﻿# Node SLA statistics frontend + ChartJS
+
+
+## Start up server
 1. put in your API key or URL for ETH_TRUSTED_NODE_URL in .env file in /app
 2. In home directory, run "docker compose up --build"
 
-## to start frontend
+## Start frontend
 3. cd into /frontend
 3. ng serve
 
